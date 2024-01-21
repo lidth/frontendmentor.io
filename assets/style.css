@@ -75,9 +75,6 @@ div#lista ul{
 div#lista li {
     display: inline;
 }
-div#lista li:hover {
-    background-color: #B6CF6D;
-}
 
 div#lista a{
     display: block;
@@ -96,6 +93,10 @@ div#lista a:hover {
     background-color: #C4F82A;
     color: #29370E;
     font-weight: bold;
+}
+
+.testemargin {
+    margin-bottom: 0px;
 }
 
 @media screen and (max-width: 700px) {
