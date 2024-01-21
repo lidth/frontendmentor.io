@@ -11,12 +11,14 @@
     font-family: inter-variable;
 }
 
-body,html {
+html {
     width: 100vw;
-    height: 90vh;
+    height: 100vh;
 }
 
 body {
+    width: 100vw;
+    height: 95vh;
     position: relative;
     background-color: #141414;
 }
